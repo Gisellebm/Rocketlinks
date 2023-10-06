@@ -10,9 +10,11 @@
 
 [Rocketlinks.webm](https://github.com/Gisellebm/Rocketlinks/assets/55713609/1ff5e4f4-c5bd-43b3-9857-193cdfcf6347)
 
+<br/>
 
-
-<img  src='https://github.com/Gisellebm/Rocketlinks/assets/55713609/1ff5e4f4-c5bd-43b3-9857-193cdfcf6347' />
+<div align="center">
+<span><img width="200px" src='./img/mobile1.gif' /> </span>_____  VERSÃO MOBILE  _____<span>   </span>  <span><img width="200px" src='./img/mobile.gif' /></span>
+</div>
 
 
 
